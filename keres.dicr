@@ -1,0 +1,37 @@
+Using
+Window
+Create
+window()
+Start
+menu()
+load
+new
+maze-map()
+Button[]
+if ()
+else if ()
+Player
+collider()
+Finish
+Enemy
+lose
+wind
+controler
+Standard
+Cursor
+Keydown
+speed[]
+Create.window()
+load.Start.menu
+if (collider(Enemy)) new.window(lose)
+else if (collider(Finish)) new.window(win)
+else if (collider(Finish) + Keydown(load(Start.menu)))
+Player.speed = 1;
+Player.speed = 2;
+Button[1]
+Button[2]
+Player.controler();
+Player.controler(Standard)
+Player.controler(Cursor)
+load.new.window()
+exit.app()

@@ -1,0 +1,11 @@
+Using Window;
+Using Player;
+
+Button[];
+Button[1].load.new.window();
+Button[2].exit.app();
+
+else if (collider(Finish) + Keydown(load(Start.menu)));
+else if (collider(Finish)) new.window(win);
+
+Create.window(Start.menu(load.maze-map(1)));
